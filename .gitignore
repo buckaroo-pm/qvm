@@ -1,10 +1,6 @@
-.DS_Store
-.Trashes
-*.suo
-*.user
-*.log
-*.sdf
-*.db
-vcxproj.bat
-vcxproj.exe
-*.opensdf
+.buckd
+buck-out
+buckaroo
+.buckconfig.local
+.buckconfig.d
+buckaroo_macros.bzl
